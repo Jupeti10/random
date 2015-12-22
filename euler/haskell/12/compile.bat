@@ -1,0 +1,1 @@
+start "" ghc -O2 p12.hs
